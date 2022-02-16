@@ -17,3 +17,4 @@ def happy_new_year(wishes = True):
         print("Happy New Year!")
 happy_new_year() 
 
+rlejgfdmlejgfdlkjflkdjf
